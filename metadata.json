@@ -1,0 +1,6 @@
+{
+  "name": "Roast & Sync UK Air Fryer Assistant",
+  "description": "Smart air fryer meal timeline and temperature planner for UK home cooks with sync finish and dual-zone support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
